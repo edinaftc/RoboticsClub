@@ -1,5 +1,5 @@
 # Ninevolt
-For library information, please visit [NinevoltLib/README.md](develop/NinevoltLib/README.md)
+For library information, please visit [NinevoltLib/README.md](NinevoltLib/README.md)
 
 # ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
